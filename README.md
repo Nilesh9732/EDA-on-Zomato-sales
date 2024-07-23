@@ -1,4 +1,5 @@
 # Exploratory Data Analysis project 
 Objectives:
 
--What type of restaurant do the majority of customers order from?
+1. What type of restaurant do the majority of customers order from?
+2. What type of restaurant do the majority of customers order from?
