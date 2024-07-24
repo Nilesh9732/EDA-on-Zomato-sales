@@ -1,6 +1,12 @@
 # Exploratory Data Analysis project 
 This EDA project is made on Jupyter Notebook-7.0.8 by using Python.
 
+## Libraries used:
+- Numpy
+- Pandas
+- Matplplotlib
+- Seaborn
+
 ## Objectives:
 
 1. What type of restaurant do the majority of customers order from?
