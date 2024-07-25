@@ -1,22 +1,21 @@
 # Exploratory Data Analysis project 
 This EDA project is made on Jupyter Notebook-7.0.8 by using Python.
 
-## Libraries used:
+## Libraries used
 - Numpy
 - Pandas
 - Matplplotlib
 - Seaborn
 
-## Objectives:
+## Roadmap
+- Data Collection and Import using Pandas.
+- Use pandas to handle missing values, correct data types, and remove duplicates for a clean dataset.
+- Utilize pandas and numpy to perform descriptive statistics and understand data distributions.
+- Create visualizations using matplotlib and seaborn to identify trends, patterns, and correlations in the sales data.
+- Summarize findings and insights, supported by visualizations, to inform data-driven decisions.
 
-1. What type of restaurant do the majority of customers order from?
-2. How many votes has each type of restaurant received from customers?
-3. What are the ratings recieved by the majority of the restaurants?
-4. Zomato has observed that most couples order most of their food online. What is their 
-   average spending on each order?
-5. Which mode (online or offline) has received the maximum rating?
-6. Which type of restaurant received more offline orders, so that Zomato can provide those 
-   customers with some good offers?
+## Objective
+The objective is to conduct an Exploratory Data Analysis (EDA) on Zomato sales using Python libraries like pandas, numpy, matplotlib, and seaborn. This involves collecting and cleaning data, exploring data characteristics, visualizing trends and patterns, and deriving insights to support data-driven decision-making.
 
 ## Insights:
 
